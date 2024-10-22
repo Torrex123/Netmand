@@ -24,6 +24,11 @@
   <a href="#credits">Credits</a>
 </p>
 
+## Disclaimer
+
+This repository is a copy of the original project **Netmand**, which I transferred from my personal GitHub account to my university's project repository. 
+- You can find the original repository by clicking [here](https://github.com/proyectosingenieriauninorte/Netmand.git).
+
 ## Overview
 
 `Netmand` is a user-friendly platform that simplifies the configuration of network devices such as PCs, switches, and routers. Users can create comprehensive network designs by selecting and configuring each device's options. Based on these configurations, Netmand generates the necessary commands to set up each device, streamlining the process of network deployment and management.
