@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/contributors-anon/Torrex123/Netmand?color=yellow&style=flat-square" alt="contributors" style="height: 20px;">
 </p>
 
-![screenshot](https://private-user-images.githubusercontent.com/92010526/337283588-8d57c78e-791a-4eec-b320-f86c2c0b180d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2NDAxNjcsIm5iZiI6MTcyOTYzOTg2NywicGF0aCI6Ii85MjAxMDUyNi8zMzcyODM1ODgtOGQ1N2M3OGUtNzkxYS00ZWVjLWIzMjAtZjg2YzJjMGIxODBkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIyVDIzMzEwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwMTczZTIxZGFkYTQzMThlZDYyMTAwMWIyMTY3ZDJkNWE2ZjBmNTBhNTI2ZjVjYzNlMzBhMzEzZTEwNDMyYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Td4DyVcSqH4RFDoUztV5Rb_UKdLpU_e887fFpo-n2_w)
+![screenshot](https://github.com/Torrex123/Netmand/blob/main/public/assets/demo.gif)
 
 <p align="center">
   <a href="#overview">Overview</a> •
